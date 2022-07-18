@@ -7,6 +7,7 @@ RoadToWeb3 first week. Based on https://docs.alchemy.com/alchemy/road-to-web3/we
 ## Stack
 
 - OpenZeppelin
+- Filebase
 - Remix IDE
 - Metamask
 - Rinkeby by Alchemy
